@@ -1,0 +1,11 @@
+# Virtual environments
+.venv
+
+# Environment variables
+.env*
+
+# OS / Editor files
+.DS_Store
+.vscode/
+.idea/
+
